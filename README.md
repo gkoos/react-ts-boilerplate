@@ -11,3 +11,47 @@ This setup includes:
 * [react-router v6](https://reactrouter.com/en/main)
 
 Based on CodingGarden's [react-ts-starter](https://github.com/CodingGarden/react-ts-starter).
+
+## Usage
+
+### Install dependencies
+
+```bash
+pnpm install
+```
+
+### Run dev server
+
+```bash
+pnpm dev
+```
+
+### Lint
+
+```bash
+pnpm lint
+```
+
+### Run tests
+
+```bash
+pnpm test
+```
+
+### Check test coverage
+
+```bash
+pnpm coverage
+```
+
+### Build for production
+
+```bash
+pnpm build
+```
+
+### Locally preview production build
+
+```bash
+pnpm preview
+```
