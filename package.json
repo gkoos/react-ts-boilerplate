@@ -2,6 +2,9 @@
   "name": "react-ts-boilerplate",
   "private": true,
   "version": "0.0.0",
+  "author": {
+    "name": "Gabor Koos",
+    "email": "gabor.koos@gmail.com"},
   "type": "module",
   "scripts": {
     "dev": "vite",
